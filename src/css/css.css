@@ -1,0 +1,58 @@
+        body {
+            background-color: black;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 70px;
+            max-width: 450px;
+        }
+        .card {
+            border: none;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            background-color: white;
+        }
+        .card-header {
+            background-color: brown;
+            color: yellow;
+            font-size: 1.25rem;
+            padding: 15px;
+            border-radius: 8px 8px 0 0;
+        }
+        .form-group label {
+            font-weight: bold;
+        }
+        .form-control {
+            border-radius: 5px;
+        }
+        .btn-primary {
+            background-color: green;
+            border: none;
+        }
+        .btn-primary:hover {
+            background-color: blue;
+        }
+        .btn-secondary {
+            background-color: red;
+            border: none;
+        }
+        .btn-secondary:hover {
+            background-color: blue;
+        }
+        .result {
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #28a745;
+        }
+        .statSpesialPage {
+            font-weight: bold;
+            color: red;
+            margin-top: 20px;
+        }
+        .logo {
+            display: block;
+            max-width: 40%;
+            height: auto;
+            margin: 0 auto 30px;
+        }
